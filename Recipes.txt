@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 i xxxx changed in mastermade changes in master 
 Jacob made chagnes nxxxx o
+=======
+made changes from testing i
+Jacob made chagnes now xxtesting
+>>>>>>> testing
 hellow Made chagnes from TEsting branch :
 Jacobs Kitchen
 
